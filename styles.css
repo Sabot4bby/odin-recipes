@@ -3,5 +3,14 @@
     font-family: Arial, Helvetica, sans-serif;
     color: coral;
     font-weight: 1000;
+}
 
+.description {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+.link {
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
 }
